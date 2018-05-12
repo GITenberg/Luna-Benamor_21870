@@ -1,0 +1,40 @@
+_repo: Luna-Benamor_21870
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Goldberg, Isaac
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '4791'
+    url: http://www.gutenberg.org/2009/agents/4791
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Goldberg
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Ibáñez, Vicente Blasco
+    - Blasco Ibanez, Vicente
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2007-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: Luna Benamor -- The toad -- Compassion -- Luxury -- Rabies -- The
+  windfall -- The last lion.
+title: Luna Benamor
+url: http://www.gutenberg.org/ebooks/21870
